@@ -11,5 +11,3 @@ I picked a font from Google API and icons from bootstrapcdn you can just get reg
 Make sure both files are in one folder. If you want to test the chrome extension make sure Chrome is in developer mode then go to extensions and click Load unpacked.
 
 It is really that simple. If you wanted to and you have your own Gsuite account you can upload to your company store or you can upload it publicly at Google Play Store.
-
-<a href="https://github.com/helix2301/HTML-Chrome-Extention-Social">https://github.com/helix2301/HTML-Chrome-Extention-Social</A>
