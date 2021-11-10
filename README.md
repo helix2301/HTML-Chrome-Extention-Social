@@ -12,4 +12,4 @@ Make sure both files are in one folder. If you want to test the chrome extension
 
 It is really that simple. If you wanted to and you have your own Gsuite account you can upload to your company store or you can upload it publicly at Google Play Store.
 
-https://github.com/helix2301/HTML-Chrome-Extention-Social
+<a href="https://github.com/helix2301/HTML-Chrome-Extention-Social">https://github.com/helix2301/HTML-Chrome-Extention-Social</A>
